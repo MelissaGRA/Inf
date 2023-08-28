@@ -54,4 +54,4 @@ $$
 \end{matrix}
 \end{equation} 
 $$
-$$\begin{cases}a & x = 0\\b & x > 0\end{cases}$$
+$$\begin{cases}a & x = 0\\b & x > 0\end{cases}$$ 
